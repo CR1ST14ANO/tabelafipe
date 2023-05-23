@@ -4,9 +4,7 @@ App para consultar preços médios de veículos diretamente na FIPE.
 
 ## Demo
 
-| **Netlify**
-|:-----:|:-----:|
-| [https://tabelafipe.netlify.app](https://tabelafipe.netlify.app) 
+| **Netlify** | [https://tabelafipe.netlify.app](https://tabelafipe.netlify.app) 
 
 ![formulario](screenshots/formulario.png)
 
